@@ -6,6 +6,7 @@ Una novela corta en español que cuenta, en primera persona y con palabras propi
 
 ## Leerla
 
+- **En el navegador:** [jmtdev0.github.io/broken-sword-novela](https://jmtdev0.github.io/broken-sword-novela/). Es la novela entera en una sola página, con índice y modo oscuro, y recuerda por dónde vas. También puedes descargar [`Broken Sword - La novela.html`](Broken%20Sword%20-%20La%20novela.html) y abrirlo sin conexión.
 - **En el móvil o en un lector:** descarga [`Broken Sword - La novela.epub`](Broken%20Sword%20-%20La%20novela.epub) (botón *Download raw file*) y ábrelo con Google Play Libros, Apple Books o cualquier lector EPUB. Para Kindle, envíalo con [Send to Kindle](https://www.amazon.com/sendtokindle).
 - **Aquí mismo:** capítulo a capítulo.
 
